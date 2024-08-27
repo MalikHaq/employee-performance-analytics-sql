@@ -47,6 +47,11 @@ git clone https://github.com/MalikHaq/employee-performance-retention-analysis.gi
 2. Run the provided SQL queries to analyze employee data
 3. Modify and extend queries as needed for your specific analysis requirements
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/37f5ccfc-de77-468a-b205-c47f4582362b)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
